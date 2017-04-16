@@ -46,7 +46,7 @@ data_action = [
     {
         title: "Conjurar magia",
         icon: "magic-swirl",
-        subtitle: "Tempo de conjuração de 1 ação",
+        subtitle: "Conjuração de 1 ação",
         description: "Conjure uma magia com tempo de conjuração de 1 ação",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -122,7 +122,7 @@ data_action = [
         ]
     },
     {
-        title: "Use um escudo",
+        title: "Usar um escudo",
         icon: "round-shield",
         subtitle: "Equipe ou desequipe um escudo",
         description: "Equipe ou desequipe um escudo",
@@ -172,7 +172,7 @@ data_action = [
     {
         title: "Usar característica",
         icon: "embrassed-energy",
-        subtitle: "Algumas características usam ações",
+        subtitle: "Que use 1 ação",
         description: "Use uma característica de classe ou traço racial que use uma ação",
         reference: "Vejas as páginas de sua classe e raça para mais informações.",
         bullets: [

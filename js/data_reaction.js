@@ -25,7 +25,7 @@ data_reaction = [
     {
         title: "Conjurar magia",
         icon: "magic-swirl",
-        subtitle: "Tempo de conjuração 1 reação",
+        subtitle: "Conjuração de 1 reação",
         description: "Conjure uma magia com tempo de conjuração de 1 reação",
         reference: "PHB, pg. 192.",
         bullets: [

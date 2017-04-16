@@ -15,7 +15,7 @@ data_bonusaction = [
     {
         title: "Conjurar magia",
         icon: "magic-swirl",
-        subtitle: "Tempo de conjuração de 1 ação bônus",
+        subtitle: "Conjuração de 1 ação bônus",
         description: "Conjure uma magia com tempo de conjuração de 1 ação bônus",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -26,7 +26,7 @@ data_bonusaction = [
     {
         title: "Usar característica",
         icon: "embrassed-energy",
-        subtitle: "Algumas características usam ações bônus",
+        subtitle: "Que use 1 ação bônus",
         description: "Use uma característica de classe ou traço racial que use uma ação bônus",
         reference: "Veja as páginas de sua classe e raça para mais informações.",
         bullets: [
