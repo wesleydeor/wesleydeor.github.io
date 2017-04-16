@@ -70,7 +70,7 @@ data_condition = [
     {
         title: "Incapacitado",
         icon: "internal-injury",
-        subtitle: "Não pode realizar ações ou reações",
+        subtitle: "Não realiza ações ou reações",
         description: "Você não pode realizar ações ou reações",
         reference: "PHB, pg. 290.",
         bullets: [
