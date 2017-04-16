@@ -59,8 +59,8 @@ data_movement = [
     {
         title: "Levantar",
         icon: "strong",
-        subtitle: "Custo: metade de seu deslocamento",
-        description: "Custo do movimento: metade do deslocamento",
+        subtitle: "Custo: metade do deslocamento",
+        description: "Custo do movimento: metade de seu deslocamento",
         reference: "PHB, pg. 190-191.",
         bullets: [
             "Levantar-se custa metade de seu deslocamento.",
