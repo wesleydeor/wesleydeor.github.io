@@ -108,7 +108,7 @@ data_movement = [
         icon: "stone-pile",
         subtitle: "Custo: 3,0m para cada 1,5m",
         reference: "PHB, pg. 182.",
-        description: "Mover em terrono difícil exige o dobro de movimentação.",
+        description: "Mover em terreno difícil exige o dobro de movimentação.",
         bullets: [
         ]
     },
