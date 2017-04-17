@@ -2,8 +2,8 @@ data_movement = [
     {
         title: "Mover",
         icon: "run",
-        subtitle: "Custo: 1m por cada 1m",
-        description: "Custo do movimento: 1m por cada 1m deslocado",
+        subtitle: "Custo: 1,5m por cada 1,5m",
+        description: "Custo do movimento: 1,5m por cada 1,5m deslocado",
         reference: "PHB, pg. 190.",
         bullets: [
             "Você pode quebrar seu movimento em seu turno, usando parte do seu deslocamento antes e depois de sua ação.",
@@ -17,8 +17,8 @@ data_movement = [
     {
         title: "Escalar",
         icon: "crags",
-        subtitle: "Custo: 2m por cada 1m",
-        description: "Custo do movimento: 2m por cada 1m escalado",
+        subtitle: "Custo: 3,0m por cada 1,5m",
+        description: "Custo do movimento: 3,0m por cada 1,5m escalado",
         reference: "PHB, pg. 182.",
         bullets: [
             "Pode involver um teste de Força (Atletismo) se o terreno a ser escalado for difícil, como uma superfície íngreme escorregadia ou poucos lugares para segurar-se."
@@ -27,8 +27,8 @@ data_movement = [
     {
         title: "Nadar",
         icon: "at-sea",
-        subtitle: "Custo: 2m por cada 1m",
-        description: "Custo do movimento: 2m por cada 1m nadado",
+        subtitle: "Custo: 3,0m por cada 1,5m",
+        description: "Custo do movimento: 3,0m por cada 1,5m nadado",
         reference: "PHB, pg. 182.",
         bullets: [
             "Pode involver um teste de Força (Atletismo) se as águas estiverem agitadas."
@@ -49,7 +49,7 @@ data_movement = [
     {
         title: "Rastejar",
         icon: "crawl",
-        subtitle: "Custo: 2m por cada 1m",
+        subtitle: "Custo: 3,0m por cada 1,5m",
         description: "Custo do movimento: 2m por cada 1m rastejado",
         reference: "PHB, pg. 182.",
         bullets: [
@@ -70,8 +70,8 @@ data_movement = [
     {
         title: "Salto em altura",
         icon: "wingfoot",
-        subtitle: "Custo: 1m para cada 1m",
-        description: "Custo do movimento: 1m por cada 1m saltado",
+        subtitle: "Custo: 1,5m para cada 1,5m",
+        description: "Custo do movimento: 1,5m por cada 1,5m saltado",
         
         reference: "PHB, pg. 182.",
         bullets: [
@@ -84,8 +84,8 @@ data_movement = [
     {
         title: "Salto à distância",
         icon: "wingfoot",
-        subtitle: "Custo: 1m para cada 1m",
-        description: "Custo do movimento: 1m por cada 1m saltado",
+        subtitle: "Custo: 1,5m para cada 1,5m",
+        description: "Custo do movimento: 1,5m por cada 1,5m saltado",
         reference: "PHB, pg. 182.",
         bullets: [
             "Quando você realiza um salto em distância, você cobre uma distância igual ao seu valor de Força multiplicado por 0,3 metros, se você percorrer, no mínimo, 3 metros antes do salto.",
@@ -106,16 +106,16 @@ data_movement = [
     {
         title: "Terreno difícil",
         icon: "stone-pile",
-        subtitle: "Custo: 2m para cada 1m",
+        subtitle: "Custo: 3,0m para cada 1,5m",
         reference: "PHB, pg. 182.",
-        description: "Mover em terro difícil exige o dobro de movimentação.",
+        description: "Mover em terrono difícil exige o dobro de movimentação.",
         bullets: [
         ]
     },
     {
         title: "Mover agarrado",
         icon: "grab",
-        subtitle: "Custo: metade de seu movimento",
+        subtitle: "Custo: metade do movimento",
         description: "Carregue ou arraste uma criatura agarrada por você",
         reference: "PHB, pg. 195.",
         bullets: [
