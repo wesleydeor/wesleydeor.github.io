@@ -12,7 +12,7 @@ data_environment_obscurance = [
     {
         title: "Escuridão densa",
         icon: "lightning-tear",
-        subtitle: "Efetivamemte cega",
+        subtitle: "Efetivamente cega",
         description: "Escuridão, nevoeiro espesso ou folhagem densa",
         reference: "PHB, pg. 183.",
         bullets: [

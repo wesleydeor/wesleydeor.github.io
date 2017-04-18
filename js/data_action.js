@@ -2,8 +2,8 @@ data_action = [
     {
         title: "Ajudar",
         icon: "telepathy",
-        subtitle: "Concede vantagem a um alidado",
-        description: "Concede vantagem a um alidado em um teste de habilidade ou ataque",
+        subtitle: "Concede vantagem a um aliado",
+        description: "Concede vantagem a um aliado em um teste de habilidade ou ataque",
         reference: "PHB, pg. 192.",
         bullets: [
         "A criatura que você ajuda tem vantagem no próximo teste de habilidade que ela fizer para completar a atividade que está recebendo ajuda.",
@@ -175,7 +175,7 @@ data_action = [
         icon: "embrassed-energy",
         subtitle: "Que use 1 ação",
         description: "Use uma característica de classe ou traço racial que use uma ação",
-        reference: "Vejas as páginas de sua classe e raça para mais informações.",
+        reference: "Veja as páginas de sua classe e raça para mais informações.",
         bullets: [
 
         ]
