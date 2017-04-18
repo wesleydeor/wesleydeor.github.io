@@ -8,7 +8,8 @@ data_condition = [
         bullets: [
         "Seu deslocamento se torna 0, e você não pode se beneficiar de qualquer bônus em seu deslocamento.",
         "A condição encerra caso a criatura que o agarrou fique incapacitada.",
-        "A condição também encerra caso você, por algum efeito, seja removido do alcance da criatura que o agarrou."
+        "A condição também encerra caso você, por algum efeito, seja removido do alcance da criatura que o agarrou.",
+        "A criatura que está agarrando só pode arrastar, puxar ou erguer um peso em kg até duas vezes a sua capacidade de carga (ou 15 vezes o seu valor de Força). Ao empurrar ou arrastar um peso superior a sua capacidade de carga, seu deslocamento é reduzido para 1,5 metro."
         ]
     },
     {

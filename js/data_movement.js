@@ -113,13 +113,13 @@ data_movement = [
         ]
     },
     {
-        title: "Mover agarrado",
+        title: "Mover agarrando",
         icon: "grab",
         subtitle: "Custo: metade do movimento",
         description: "Carregue ou arraste uma criatura agarrada por você",
         reference: "PHB, pg. 195.",
         bullets: [
-            "Quando você se move enquanto agarrado a outra criatura, seu deslocamento cai pela metade, a menos que a criatura seja duas ou mais categorias de tamanho menor que a sua.",
+            "Quando você se move enquanto está agarrando outra criatura, seu deslocamento cai pela metade, a menos que a criatura seja duas ou mais categorias de tamanho menor que a sua.",
             "Veja a ação <i>Agarrão</i> para mais informações em como agarrar uma criatura."
         ]
     }
