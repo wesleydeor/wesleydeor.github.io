@@ -88,6 +88,16 @@ data_action = [
         ]
     },
     {
+        title: "Estabilizar",
+        icon: "health-normal",
+        subtitle: "Estabilize uma criatura instável",
+        description: "Estabilize uma criatura instável",
+        reference: "PHB, pg. 181.",
+        bullets: [
+        "Você pode usar um kit de medicina ou fazer um teste de Medicina CD 10 para estabilizar uma criatura que esteja instável."
+        ]
+    },
+    {
         title: "Preparar",
         icon: "stopwatch",
         subtitle: "Escolha o gatilho e a ação",
